@@ -27,8 +27,9 @@ If applicable, add screenshots to help explain your problem.
 If applicable, add logs relating to the issue.
 
 **Emulator or device (please complete the following information):**
- - Device/Emulator: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
+ - Device/Emulator: [e.g. Bluestacks]
+ - OS: [Android Pie]
+ - Arch: [e.g. ARM64]
 
 
 **Additional context**
